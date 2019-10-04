@@ -1,5 +1,6 @@
 # orgpygantt
 A Python library for converting org-mode node trees to gantt charts.
+![Sample gantt chart](https://github.com/lcommons/orgpygantt/blob/master/gantt.png)
 
 ## About
 [Org-mode](https://www.orgmode.org/) is an emacs major mode for managing to-do lists, calendars, tasks, projects, and more. A typical use case might involve a project file containing a hierarchical set of nodes and subnodes, each representing a task or subtask.
